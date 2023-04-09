@@ -63,3 +63,5 @@ rtps:
     send: true
   - msg: VehicleAttitudeSetpoint
     receive: true
+  - msg: HoverThrustEstimate
+    send: true
